@@ -1,0 +1,9 @@
+Solver,WinRate,AvgGuesses
+RandomSolver,0.62,4.85
+FlatMC (random),0.74,4.20
+FlatMC (entropy),0.81,3.95
+UCT (random),0.85,3.80
+UCT+RAVE,0.89,3.65
+UCT+GRAVE,0.92,3.55
+NMCS (level 1),0.77,4.05
+NMCS (level 2),0.84,3.75

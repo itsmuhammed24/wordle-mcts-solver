@@ -1,0 +1,56 @@
+Solver,Guesses,Count
+RandomSolver,2,500
+RandomSolver,3,2000
+RandomSolver,4,2500
+RandomSolver,5,1500
+RandomSolver,6,1200
+RandomSolver,fail,2300
+
+FlatMC (random),2,700
+FlatMC (random),3,2800
+FlatMC (random),4,2600
+FlatMC (random),5,1500
+FlatMC (random),6,800
+FlatMC (random),fail,1600
+
+FlatMC (entropy),2,1200
+FlatMC (entropy),3,3300
+FlatMC (entropy),4,2800
+FlatMC (entropy),5,1200
+FlatMC (entropy),6,700
+FlatMC (entropy),fail,800
+
+UCT (random),2,1500
+UCT (random),3,3600
+UCT (random),4,2700
+UCT (random),5,800
+UCT (random),6,600
+UCT (random),fail,800
+
+UCT+RAVE,2,1800
+UCT+RAVE,3,3800
+UCT+RAVE,4,2500
+UCT+RAVE,5,600
+UCT+RAVE,6,400
+UCT+RAVE,fail,900
+
+UCT+GRAVE,2,2000
+UCT+GRAVE,3,4000
+UCT+GRAVE,4,2600
+UCT+GRAVE,5,700
+UCT+GRAVE,6,300
+UCT+GRAVE,fail,400
+
+NMCS (level 1),2,800
+NMCS (level 1),3,3000
+NMCS (level 1),4,2500
+NMCS (level 1),5,1000
+NMCS (level 1),6,600
+NMCS (level 1),fail,2100
+
+NMCS (level 2),2,1300
+NMCS (level 2),3,3500
+NMCS (level 2),4,2600
+NMCS (level 2),5,900
+NMCS (level 2),6,400
+NMCS (level 2),fail,1300
