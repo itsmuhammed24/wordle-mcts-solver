@@ -1,8 +1,8 @@
 # Wordle-MCTS-Solver
-**A Wordle solver based on Monte Carlo Tree Search (MCTS)** – Comparison of algorithm variants and playout strategies.
+A Wordle solver based on Monte Carlo Tree Search (MCTS) – Comparison of algorithm variants and playout strategies.
 
 ---
-## 📂 Structure & Execution
+##  Structure & Execution
 ```
 WORDLE-MCTS-SOLVER/
 ├── results/          
